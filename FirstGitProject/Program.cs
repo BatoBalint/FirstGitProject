@@ -10,7 +10,9 @@ namespace FirstGitProject
     {
         static void Main()
         {
-
+            Console.WriteLine("Szia uram!");
+            Console.WriteLine("Szia Néni!");
+            Console.ReadKey();
         }
     }
 }
